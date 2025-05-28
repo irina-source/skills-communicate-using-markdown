@@ -39,7 +39,7 @@ _Welcome to "Communicate using Markdown"! :wave:_
 # This is an `<h1>` header, which is the largest
 
 ## This is an `<h2>` header
-
+### This is an `<h3>` header, which is medium
 ###### This is an `<h6>` header, which is the smallest
 ```
 
@@ -65,6 +65,7 @@ _Welcome to "Communicate using Markdown"! :wave:_
 1. Click **Commit changes**.
 1. Wait about 20 seconds then refresh this page (the one you're following instructions from). [GitHub Actions](https://docs.github.com/en/actions) will automatically update to the next step.
 
+##### Communicate with markdown
 <footer>
 
 <!--
